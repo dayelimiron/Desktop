@@ -1,0 +1,14 @@
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\Desktop.Entities.dll.config
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\Desktop.Entities.dll
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\Desktop.Entities.pdb
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.csproj.CopyComplete
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.dll
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.pdb
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.Migrations.Inicio.resources
+C:\Users\Dayeli Miron\source\repos\Desktop\Desktop.Entities\obj\Debug\Desktop.Entities.csproj.GenerateResource.cache
